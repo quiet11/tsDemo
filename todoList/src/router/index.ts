@@ -17,5 +17,7 @@ export default createRouter({
        
         component: () => import('../views/About.vue')
       }
+
+      
 ]
 })
